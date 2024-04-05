@@ -1,4 +1,5 @@
-#Quantum Route Optimizer - calculations module. Supplement to bachelor thesis made as part of the Business Economics & IT programme at KEA, by Patrik Žori and Kieran Olivier Holm, for A.P. Møller - Mærsk, 2020
+#Code adapted from supplement to bachelor thesis made as part of the Business Economics & IT programme at KEA, by Patrik Žori and Kieran Olivier Holm, for A.P. Møller - Mærsk, 2020
+#Licensed appropriately
 
 from __main__ import debug
 import numpy as np
